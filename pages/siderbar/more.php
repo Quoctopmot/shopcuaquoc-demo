@@ -1,0 +1,1 @@
+<a href=""><img src="https://cdn.tgdd.vn/Products/Images/9499/234361/type-c-pd-25w-samsung-ep-ta800n-den-thumb-1-2-600x600.jpg" alt=""></a>

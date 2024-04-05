@@ -1,0 +1,32 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.menu > li{
+    float: left;
+    margin: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+.wrapper{
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
